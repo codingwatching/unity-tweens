@@ -52,8 +52,6 @@ Tweens focuses on providing a simple and easy to use API for creating and managi
 - [Extensions](#extensions) - Extensions available by the Tween module
 - [Advanced Examples](#advanced-examples) - Advanced examples on how to use the Tween module
 
-Still using version 2 of Tweens? View the [documentation here](https://github.com/jeffreylanters/unity-tweens/tree/v2.1.0)!
-
 ## Getting Started
 
 To get started, create a new instance of one of the many available Tween types and add it to a GameObject. The following example shows how to create a new PositionTween and add it to a GameObject in order to move a GameObject from its current position to a new position.
